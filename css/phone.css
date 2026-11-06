@@ -1,0 +1,6 @@
+#son-eklenen-k{
+	flex-direction: column;
+}
+#son-eklenen-k .son-eklenen-kitap{
+	width: 50%;
+}
